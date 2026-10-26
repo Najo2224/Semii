@@ -27,5 +27,9 @@ public class SmokeTest {
     public void verifyTestNgExecution44(){
         System.out.println("TestNg is failed ");
     }
+    @Test
+    public void verifyTestNgExecution55(){
+        System.out.println("semi corner");
+    }
 
 }
